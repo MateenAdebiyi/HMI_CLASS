@@ -1,0 +1,501 @@
+Patient ID	Sample ID	Mutation Count	Fraction Genome Altered	Age	 Race Category	Biopsy Site	Cancer Type Other	Interval (Months)	Prior Therapy
+ES_5001	ES_5001	167	0.3055	65	South Asian	Brain	Breast Invasive Ductal Carcinoma	26	Yes
+ES_5004	ES_5004	58	0.4222	33	Caucasian	Abdom. Wall	Colon Adenocarcinoma	34	Yes
+ES_5005	ES_5005	53	0.2452	27	Caucasian	Cervix	Cervical Neuroendocrine Tumor	1	No
+MO_1001	MO_1001	1166	0.8783	48	Caucasian	Liver	Colon Adenocarcinoma	11	Yes
+MO_1002	MO_1002	959	0.6046	49	Caucasian	Skin	Cutaneous Melanoma	26	Yes
+MO_1005	MO_1005	16	0.0000	44	Caucasian	Liver	Solitary Fibrous Tumor	108	Yes
+MO_1007	MO_1007	54	0.1532	62	Caucasian	Liver	Extrahepatic Cholangiocarcinoma	6	Yes
+MO_1008	MO_1008	7	0.0041	47	Caucasian	Dura	Prostate Adenocarcinoma	41	Yes
+MO_1011	MO_1011	43	0.3390	69	Caucasian	Shoulder	Dedifferentiated Liposarcoma	124	Yes
+MO_1012	MO_1012	1021	0.7970	71	Caucasian	Subq Nodule	Prostate Neuroendocrine Carcinoma	91	Yes
+MO_1013	MO_1013	181	0.5835	55	Caucasian	Lymph Node	Prostate Adenocarcinoma	59	Yes
+MO_1014	MO_1014	105	0.8746	67	Caucasian	Lymph Node	Prostate Adenocarcinoma	54	Yes
+MO_1015	MO_1015	44	0.8218	75	Caucasian	Lymph Node	Prostate Adenocarcinoma	122	Yes
+MO_1016	MO_1016	195	0.3516	80	Caucasian	Lymph Node	Bladder Urothelial Carcinoma	90	Yes
+MO_1017	MO_1017	24	0.0214	66	East Asian	Lymph Node	Thymic Neuroendocrine Tumor	26	Yes
+MO_1020	MO_1020	52	0.3090	63	Caucasian	Liver	Prostate Adenocarcinoma	30	Yes
+MO_1022	MO_1022	21	0.2974	50	East Asian	Liver	Extrahepatic Cholangiocarcinoma	13	Yes
+MO_1023	MO_1023	13	0.0677	54	Caucasian	Lung	Extraskeletal Myxoid Chondrosarcoma	36	Yes
+MO_1024	MO_1024	129	0.7120	57	Caucasian	Chest Wall	Osteoblastic Osteosarcoma	54	Yes
+MO_1025	MO_1025	41	0.0498	31	African American	Subq Abdom. Mass	Embryonal Rhabdomyosarcoma	55	Yes
+MO_1026	MO_1026	61	0.6353	75	Caucasian	Forearm Mass	Undifferentiated Pleomorphic Sarcoma	8	Yes
+MO_1027	MO_1027	161	0.5201	62	Caucasian	Liver	Extrahepatic Cholangiocarcinoma	3	Yes
+MO_1028	MO_1028	135	0.9357	18	Caucasian	Retroperitoneum	Adrenocortical Carcinoma	19	Yes
+MO_1030	MO_1030	50	0.2180	78	Caucasian	Pancreas	Breast Invasive Lobular Carcinoma	252	Yes
+MO_1031	MO_1031	256	0.4733	41	Caucasian	Liver	Breast Invasive Ductal Carcinoma	155	Yes
+MO_1032	MO_1032	185	0.7448	35	African American	Breast	Breast Invasive Ductal Carcinoma	44	Yes
+MO_1033	MO_1033	44	0.1605	54	Caucasian	Liver	Anal Squamous Cell Carcinoma	27	Yes
+MO_1034	MO_1034	45	0.1959	63	Caucasian	Lung	Atypical Lung Carcinoid	12	Yes
+MO_1035	MO_1035	29	0.3632	67	Caucasian	Retroperitoneum	Gastrointestinal Stromal Tumor	127	Yes
+MO_1036	MO_1036	28	0.3245	34	Caucasian	Liver	Extrahepatic Cholangiocarcinoma	1	No
+MO_1037	MO_1037	40	0.1835	28	Caucasian	Liver	Desmoplastic Small-Round-Cell Tumor	41	Yes
+MO_1038	MO_1038	516	0.8182	39	Caucasian	Lung	Cutaneous Melanoma	2	Yes
+MO_1039	MO_1039	30	0.8504	61	Caucasian	Liver	Intrahepatic Cholangiocarcinoma	1	No
+MO_1040	MO_1040	34	0.1247	62	Caucasian	Lymph Node	Prostate Adenocarcinoma	210	Yes
+MO_1042	MO_1042	65	0.8325	26	Caucasian	Liver	Adrenocortical Carcinoma	34	Yes
+MO_1043	MO_1043	16	0.0878	48	Caucasian	Lymph Node	Salivary Clear Cell Carcinoma	10	Yes
+MO_1044	MO_1044	13	0.0520	37	Caucasian	Lung	Adenoid Cystic Carcinoma	146	Yes
+MO_1045	MO_1045	47	0.1262	60	Caucasian	Lymph Node	Pancreatic Adenocarcinoma	8	Yes
+MO_1046	MO_1046	248	0.2564	54	Caucasian	Bone	Penile Squamous Cell Carcinoma	6	Yes
+MO_1047	MO_1047	45	0.1561	40	Caucasian	Hip	Ewing Sarcoma ES Gluteus Muscle	25	Yes
+MO_1048	MO_1048	676	0.2510	63	Caucasian	Lymph Node	Colon Adenocarcinoma	312	Yes
+MO_1049	MO_1049	103	0.1404	72	Caucasian	Lymph Node	Bladder Squamous Cell Carcinoma	202	Yes
+MO_1050	MO_1050	87	1.0000	62	Caucasian	Liver	Serous Ovarian Cancer	38	Yes
+MO_1051	MO_1051	232	0.1805	31	Caucasian	Liver	Breast Invasive Ductal Carcinoma	85	Yes
+MO_1052	MO_1052	54	0.1495	78	Caucasian	Thyroid	Anaplastic Thyroid Cancer	12	Yes
+MO_1053	MO_1053	122	0.7368	49	Caucasian	Adrenal	Adrenocortical Carcinoma	13	Yes
+MO_1055	MO_1055	1789	0.1624	68	Caucasian	Liver	Cutaneous Squamous Cell Carcinoma	34	Yes
+MO_1058	MO_1058	57	0.1872	62	Caucasian	Neck	Follicular Dendritic Cell Sarcoma	33	Yes
+MO_1059	MO_1059	59	0.8528	49	Caucasian	Liver	Pancreatic Neuroendocrine Tumor	33	Yes
+MO_1060	MO_1060	54	0.5832	62	Caucasian	Lymph Node	High-Grade Serous Ovarian Cancer	26	Yes
+MO_1061	MO_1061	25	0.0556	39	Caucasian	Lung	Thymoma	61	Yes
+MO_1062	MO_1062	40	0.0042	33	Hispanic	Lung	Ameloblastoma	86	Yes
+MO_1063	MO_1063	102	0.3694	76	Caucasian	Vertebra	Renal Clear Cell Carcinoma	22	Yes
+MO_1064	MO_1064	20	0.0234	52	Caucasian	Lung	Adenoid Cystic Carcinoma	132	Yes
+MO_1065	MO_1065	159	0.5776	46	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	74	Yes
+MO_1066	MO_1066	60	0.8603	63	Caucasian	Neck	Prostate Adenocarcinoma	62	Yes
+MO_1067	MO_1067	108	0.6415	73	Caucasian	Esophagus	Esophageal Adenocarcinoma	7	Yes
+MO_1068	MO_1068	546	0.1457	65	Caucasian	Lymph Node	Breast Invasive Lobular Carcinoma	346	Yes
+MO_1069	MO_1069	73	0.3096	62	Caucasian	Lymph Node	Breast Invasive Lobular Carcinoma	219	Yes
+MO_1070	MO_1070	405	0.3719	70	Caucasian	Lymph Node	Cutaneous Melanoma	16	Yes
+MO_1072	MO_1072	317	0.4095	69	Caucasian	Buttock	Penile Squamous Cell Carcinoma	81	Yes
+MO_1073	MO_1073	107	0.8193	36	Caucasian	Colon	Rectal Adenocarcinoma	0	No
+MO_1074	MO_1074	60	0.2357	69	Caucasian	Bone	Prostate Adenocarcinoma	129	Yes
+MO_1075	MO_1075	13	0.0020	22	Caucasian	Lung	Poorly Differentiated Carcinoma, NOS	6	Yes
+MO_1076	MO_1076	25	0.1047	63	Caucasian	Lung	Dermatofibrosarcoma Protuberans	29	Yes
+MO_1077	MO_1077	67	0.1874	65	Caucasian	Thyroid	Poorly Differentiated Thyroid Cancer	1	No
+MO_1079	MO_1079	164	0.4076	53	Caucasian	Mandible	Sarcomatoid Carcinoma Mandible	0	No
+MO_1080	MO_1080	56	0.4233	69	Caucasian	Thyroid	Anaplastic Thyroid Cancer	3	Yes
+MO_1084	MO_1084	63	0.9088	77	Caucasian	Lymph Node	Prostate Adenocarcinoma	162	Yes
+MO_1085	MO_1085	13	0.2168	49	Caucasian	Liver	Gastrointestinal Stromal Tumor	230	Yes
+MO_1086	MO_1086	13	0.2250	63	Caucasian	Lung	Undifferentiated Malignant Neoplasm	11	Yes
+MO_1087	MO_1087	160	0.9824	61	Caucasian	Liver	Colon Adenocarcinoma	17	Yes
+MO_1088	MO_1088	16	0.0550	66	Caucasian	Lung	Extraskeletal Myxoid Chondrosarcoma	18	Yes
+MO_1089	MO_1089	34	0.1918	58	Caucasian	Periaortic Mass	Solid Pseudopapillary Neoplasm of the Pancreas	3	Yes
+MO_1090	MO_1090	35	0.1263	52	Caucasian	Chest Wall	Breast Invasive Ductal Carcinoma	227	Yes
+MO_1091	MO_1091	114	0.6405	58	Caucasian	Abdom. Wall	Small Cell Bladder Cancer	3	Yes
+MO_1092	MO_1092	260	0.2670	62	Caucasian	Unknown	Mucinous Adenocarcinoma Lymph Node	60	Yes
+MO_1093	MO_1093	34	0.2414	55	Caucasian	Lymph Node	Prostate Adenocarcinoma	1	Yes
+MO_1094	MO_1094	40	0.2548	67	Caucasian	Bone	Prostate Adenocarcinoma	10	Yes
+MO_1095	MO_1095	52	0.4059	72	Caucasian	Thoracic Epidural	Prostate Adenocarcinoma	14	Yes
+MO_1096	MO_1096	49	0.2905	65	African American	Bone	Prostate Adenocarcinoma	95	Yes
+MO_1097	MO_1097	167	0.1215	57	Caucasian	Liver	Bladder Urothelial Carcinoma	9	Yes
+MO_1098	MO_1098	66	0.2149	46	Caucasian	Lung	Colon Adenocarcinoma	28	Yes
+MO_1099	MO_1099	466	0.8359	45	Caucasian	Liver	Bladder Squamous Cell Carcinoma	6	Yes
+MO_1100	MO_1100	42	0.1979	48	Caucasian	Paraspinal Mass	Leiomyosarcoma	11	Yes
+MO_1102	MO_1102	1037	0.2717	34	Caucasian	Thymus	Thymic Squamous Carcinoma Liver	16	Yes
+MO_1106	MO_1106	272	0.1861	72	Caucasian	Cheek	Head and Neck Mucosal Melanoma	48	Yes
+MO_1107	MO_1107	88	0.4044	46	Caucasian	Liver	Breast Invasive Ductal Carcinoma	88	Yes
+MO_1108	MO_1108	213	0.3869	75	Caucasian	Lymph Node	Lung Adenocarcinoma	64	Yes
+MO_1109	MO_1109	1137	0.0796	60	Caucasian	Chest Wall	Merkel Cell Carcinoma	21	Yes
+MO_1111	MO_1111	1502	0.5077	54	Caucasian	Lymph Node	Lung Adenocarcinoma	17	Yes
+MO_1112	MO_1112	13	0.0134	55	Caucasian	Bone	Prostate Adenocarcinoma	32	Yes
+MO_1114	MO_1114	57	0.7710	62	Caucasian	Lymph Node	Prostate Adenocarcinoma	91	Yes
+MO_1116	MO_1116	209	0.0223	54	Caucasian	Liver	Pancreatobiliary Ampullary Carcinoma	44	Yes
+MO_1117	MO_1117	56	0.1394	53	Caucasian	Liver	Hepatocellular Carcinoma HCC Liver	70	Yes
+MO_1118	MO_1118	50	0.2369	73	Caucasian	Liver	Prostate Neuroendocrine Carcinoma	137	Yes
+MO_1119	MO_1119	131	0.7381	54	Caucasian	Brain	Poorly Differentiated Non-Small Cell Lung Cancer	0	No
+MO_1123	MO_1123	31	0.1384	77	Caucasian	Pancreas	Mucinous Cystic Neoplasm MCN Lung	9	Yes
+MO_1124	MO_1124	73	0.3787	66	Caucasian	Bladder	Prostate Adenocarcinoma	285	Yes
+MO_1125	MO_1125	398	0.4065	72	Caucasian	Lymph Node	Poorly Differentiated Non-Small Cell Lung Cancer	48	Yes
+MO_1126	MO_1126	84	0.2169	55	Caucasian	Liver	Breast Invasive Ductal Carcinoma	12	Yes
+MO_1128	MO_1128	49	0.3003	71	Caucasian	Lymph Node	Prostate Adenocarcinoma	136	Yes
+MO_1129	MO_1129	28	0.2089	44	Caucasian	Liver	Breast Invasive Ductal Carcinoma	141	Yes
+MO_1130	MO_1130	23	0.0660	56	Caucasian	Bone	Prostate Adenocarcinoma	42	Yes
+MO_1131	MO_1131	31	0.7298	70	Caucasian	Lymph Node	Cutaneous Melanoma	16	Yes
+MO_1132	MO_1132	61	0.0069	60	Caucasian	Bone	Prostate Adenocarcinoma	5	Yes
+MO_1133	MO_1133	32	0.3758	49	Caucasian	Epidural	Synovial Sarcoma	51	Yes
+MO_1135	MO_1135	204	0.5881	47	Caucasian	Rectus Muscle	Bladder Urothelial Carcinoma	12	Yes
+MO_1136	MO_1136	44	0.0412	35	Caucasian	Chest Wall	Fibrolamellar Carcinoma	36	Yes
+MO_1137	MO_1137	127	0.6489	66	Caucasian	Lung	Uterine Leiomyosarcoma	104	Yes
+MO_1138	MO_1138	42	0.3371	60	Caucasian	Pelvis	High-Grade Serous Ovarian Cancer	0	No
+MO_1139	MO_1139	42	0.0698	61	Caucasian	Bone	Prostate Adenocarcinoma	106	Yes
+MO_1140	MO_1140	68	0.8808	72	African American	Paraspinal Mass	Gastrointestinal Stromal Tumor	2	Yes
+MO_1141	MO_1141	306	0.1877	56	Caucasian	Lung	Squamous Cell Carcinoma, NOS	20	Yes
+MO_1142	MO_1142	35	0.6108	72	Caucasian	Tongue	Clear Cell Carcinoma	161	Yes
+MO_1146	MO_1146	2209	0.5943	72	Caucasian	Subq Nodule	Cutaneous Melanoma	10	Yes
+MO_1147	MO_1147	16	0.1496	62	Caucasian	Liver	Intrahepatic Cholangiocarcinoma	1	No
+MO_1148	MO_1148	33	0.2572	64	Caucasian	Chest Wall	Leiomyosarcoma	121	Yes
+MO_1149	MO_1149	19	0.1053	24	African American	Lung	Alveolar Soft Part Sarcoma	74	Yes
+MO_1150	MO_1150	37	0.5398	54	Caucasian	Lymph Node	Lung Adenocarcinoma	39	Yes
+MO_1152	MO_1152	41	0.3906	43	Caucasian	Liver	Extrahepatic Cholangiocarcinoma	0	No
+MO_1153	MO_1153	382	0.9695	70	Caucasian	Liver	Bladder Urothelial Carcinoma	42	Yes
+MO_1155	MO_1155	19	0.0650	40	Caucasian	Subq Nodule	Adenoid Cystic Carcinoma	13	Yes
+MO_1157	MO_1157	61	0.6607	49	Caucasian	Retroperitoneum	Uterine Leiomyosarcoma	17	Yes
+MO_1158	MO_1158	49	0.4780	64	Caucasian	Pelvic Mass	High-Grade Serous Ovarian Cancer	1	No
+MO_1159	MO_1159	135	0.4947	54	Caucasian	Liver	Breast Invasive Ductal Carcinoma	24	Yes
+MO_1160	MO_1160	1427	0.2779	66	Caucasian	Liver	Merkel Cell Carcinoma	15	Yes
+MO_1161	MO_1161	49	0.8512	65	Caucasian	Liver	Prostate Adenocarcinoma	16	Yes
+MO_1162	MO_1162	66	0.3129	62	Caucasian	Peritoneum	Prostate Adenocarcinoma	106	Yes
+MO_1163	MO_1163	578	0.7835	52	Caucasian	Liver	Poorly Differentiated Non-Small Cell Lung Cancer	20	Yes
+MO_1164	MO_1164	48	0.2907	51	Caucasian	Brain	Renal Clear Cell Carcinoma	18	Yes
+MO_1165	MO_1165	62	0.3469	32	Caucasian	Breast	Uterine Leiomyosarcoma	41	Yes
+MO_1166	MO_1166	165	0.2145	78	Caucasian	Bone	Bladder Urothelial Carcinoma	1	No
+MO_1167	MO_1167	37	0.3642	60	Caucasian	Liver	Breast Invasive Ductal Carcinoma	214	Yes
+MO_1168	MO_1168	46	0.1943	50	Caucasian	Liver	Leiomyosarcoma	27	Yes
+MO_1170	MO_1170	36	0.3206	44	Caucasian	Peritoneum	Extrahepatic Cholangiocarcinoma	18	Yes
+MO_1171	MO_1171	27	0.6593	42	Caucasian	Lymph Node	Teratoma with Malignant Transformation	6	Yes
+MO_1172	MO_1172	26	0.2441	55	Caucasian	Lung	Pancreatic Adenocarcinoma	45	Yes
+MO_1175	MO_1175	85	0.5352	69	Caucasian	Liver	Adenocarcinoma, NOS	26	Yes
+MO_1176	MO_1176	76	0.2391	56	Caucasian	Lymph Node	Prostate Adenocarcinoma	1	No
+MO_1177	MO_1177	66	0.6571	62	Caucasian	Pleura	Lung Squamous Cell Carcinoma	7	Yes
+MO_1178	MO_1178	536	0.6806	61	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	52	Yes
+MO_1179	MO_1179	58	0.1828	75	Caucasian	Bone	Prostate Adenocarcinoma	61	Yes
+MO_1180	MO_1180	17	0.1093	58	Caucasian	Gluteus Muscle	Extraskeletal Myxoid Chondrosarcoma	16	Yes
+MO_1181	MO_1181	71	0.7876	62	Caucasian	ULMS Abdomen	Uterine Leiomyosarcoma	176	Yes
+MO_1182	MO_1182	72	0.7209	52	African American	Gluteal Mass	Leiomyosarcoma	44	Yes
+MO_1183	MO_1183	1304	0.0762	69	Caucasian	Subq Nodule (Arm)	Cutaneous Melanoma	43	Yes
+MO_1184	MO_1184	112	0.3198	72	Caucasian	Liver	Prostate Adenocarcinoma	47	Yes
+MO_1185	MO_1185	74	0.2586	58	Caucasian	Peritoneal Fluid	Breast Invasive Lobular Carcinoma	195	Yes
+MO_1187	MO_1187	171	0.8083	64	Caucasian	Liver	Oral Cavity Squamous Cell Carcinoma	17	Yes
+MO_1188	MO_1188	315	0.0050	62	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	191	Yes
+MO_1189	MO_1189	264	0.2149	67	Caucasian	Lymph Node	Poorly Differentiated Non-Small Cell Lung Cancer	4	Yes
+MO_1190	MO_1190	500	0.2883	66	Caucasian	Bladder	Breast Invasive Lobular Carcinoma	106	Yes
+MO_1192	MO_1192	32	0.2984	62	African American	Lymph Node	Prostate Adenocarcinoma	73	Yes
+MO_1193	MO_1193	21	0.8806	28	Caucasian	Lung	Low-Grade Serous Ovarian Cancer	4	Yes
+MO_1194	MO_1194	68	0.3962	60	Caucasian	Chest Wall	Lung Adenocarcinoma	39	Yes
+MO_1195	MO_1195	75	0.2915	56	Caucasian	Lymph Node	Adenocarcinoma, NOS	0	No
+MO_1196	MO_1196	30	0.2046	34	Caucasian	Liver	Gastrointestinal Stromal Tumor	13	Yes
+MO_1197	MO_1197	359	0.2517	59	Caucasian	Lymph Node	Squamous Cell Carcinoma, NOS	9	Yes
+MO_1198	MO_1198	346	0.4687	64	Caucasian	Liver	Bladder Urothelial Carcinoma	15	Yes
+MO_1200	MO_1200	74	0.1249	67	Caucasian	Lymph Node	Prostate Adenocarcinoma	131	Yes
+MO_1201	MO_1201	36	0.1132	62	Caucasian	Bone	Prostate Adenocarcinoma	12	Yes
+MO_1202	MO_1202	55	0.9651	70	Caucasian	Liver	Prostate Adenocarcinoma	24	Yes
+MO_1203	MO_1203	36	0.0665	47	Caucasian	Subcut. Abdomen	Intrahepatic Cholangiocarcinoma	8	Yes
+MO_1204	MO_1204	195	0.4041	46	Caucasian	Subcut. Periumbilical	Urachal Adenocarcinoma	64	Yes
+MO_1206	MO_1206	229	0.6895	54	Caucasian	Liver	Lung Squamous Cell Carcinoma	14	Yes
+MO_1208	MO_1208	66	0.6119	61	Caucasian	Acetabulum	Undifferentiated Pleomorphic Sarcoma/Malignant Female	20	Yes
+MO_1209	MO_1209	571	0.3094	61	Caucasian	Lung Nodule	Clear Cell Carcinoma of the Lung	51	Yes
+MO_1210	MO_1210	31	0.1185	19	Caucasian	Peritoneum	Hepatocellular Carcinoma	9	Yes
+MO_1211	MO_1211	12	0.0346	23	African American	Liver	Desmoplastic Small-Round-Cell Tumor	16	Yes
+MO_1213	MO_1213	33	0.5548	43	Caucasian	Liver	Breast Invasive Ductal Carcinoma	8	Yes
+MO_1214	MO_1214	83	0.0000	78	Caucasian	Bone	Renal Cell Carcinoma	0	No
+MO_1215	MO_1215	112	0.3823	65	Caucasian	Perirectal Mass	Prostate Neuroendocrine Carcinoma	133	Yes
+MO_1217	MO_1217	813	0.3480	67	Caucasian	Lymph Node	Undifferentiated Malignant Neoplasm	2	No
+MO_1219	MO_1219	36	0.1599	67	Caucasian	Bone	Prostate Adenocarcinoma	20	Yes
+MO_1220	MO_1220	390	0.9179	26	Caucasian	Lymph Node	Desmoplastic Small-Round-Cell Tumor	46	Yes
+MO_1221	MO_1221	42	0.8809	59	Caucasian	Bone	Prostate Adenocarcinoma	102	Yes
+MO_1222	MO_1222	16	0.0001	46	Caucasian	Thigh	Extraskeletal Myxoid Chondrosarcoma	149	Yes
+MO_1223	MO_1223	213	0.1387	62	Caucasian	Lymph Node	Squamous Cell Carcinoma, NOS	2	Yes
+MO_1224	MO_1224	166	0.2643	69	Caucasian	Lymph Node	Urethral Urothelial Carcinoma	24	Yes
+MO_1226	MO_1226	97	0.6866	48	Caucasian	Chest Wall Nodule	Angiosarcoma	114	Yes
+MO_1227	MO_1227	352	0.2358	58	Caucasian	Bone	Breast Invasive Lobular Carcinoma	74	Yes
+MO_1228	MO_1228	1200	0.4929	54	Caucasian	Parotid	Skin Adnexal Carcinoma	15	Yes
+MO_1229	MO_1229	23	0.1701	50	Caucasian	Thigh	Myxoid/Round-Cell Liposarcoma	22	Yes
+MO_1230	MO_1230	31	0.2225	64	Caucasian	Liver	Breast Invasive Ductal Carcinoma	210	Yes
+MO_1231	MO_1231	39	0.0257	45	Caucasian	Pelvic Mass	Stomach Adenocarcinoma	20	Yes
+MO_1232	MO_1232	181	0.7259	65	Caucasian	Chest Wall	Prostate Adenocarcinoma	46	Yes
+MO_1233	MO_1233	22	0.2570	44	Caucasian	Liver	Adenoid Cystic Carcinoma	22	Yes
+MO_1236	MO_1236	228	0.5847	59	Caucasian	Lymph Node	Lung Adenocarcinoma	6	Yes
+MO_1237	MO_1237	51	0.5390	43	South Asian	Liver	Breast Invasive Ductal Carcinoma	15	Yes
+MO_1239	MO_1239	169	0.2617	58	Caucasian	Liver	Breast Invasive Ductal Carcinoma	50	Yes
+MO_1240	MO_1240	30	0.2453	66	Caucasian	Bone	Prostate Adenocarcinoma	105	Yes
+MO_1241	MO_1241	62	0.7148	75	Caucasian	Liver	Prostate Adenocarcinoma	5	Yes
+MO_1244	MO_1244	48	0.8170	58	Caucasian	Liver	Prostate Adenocarcinoma	15	Yes
+MO_1245	MO_1245	30	0.3122	47	Caucasian	Lung	Uterine Leiomyosarcoma	76	Yes
+MO_1247	MO_1247	25	0.3998	46	Caucasian	Liver	Breast Invasive Ductal Carcinoma	128	Yes
+MO_1248	MO_1248	55	0.6396	69	Caucasian	Omentum	Serous Ovarian Cancer	0	No
+MO_1249	MO_1249	70	0.8541	70	Caucasian	Lymph Node	Prostate Adenocarcinoma	229	Yes
+MO_1250	MO_1250	85	0.9385	53	Caucasian	Lymph Node	Lung Adenocarcinoma	9	Yes
+MO_1251	MO_1251	61	0.2370	45	Caucasian	Lung	Renal Clear Cell Carcinoma	60	Yes
+MO_1252	MO_1252	62	0.5965	45	Caucasian	Thigh	Dedifferentiated Liposarcoma	45	Yes
+MO_1253	MO_1253	78	0.0906	49	Caucasian	Hilum	Lung Adenocarcinoma	8	Yes
+MO_1256	MO_1256	325	0.3787	42	Caucasian	Lymph Node	Adrenocortical Carcinoma	12	Yes
+MO_1260	MO_1260	657	0.0565	61	Caucasian	Lymph Node	Prostate Adenocarcinoma	21	Yes
+MO_1262	MO_1262	67	0.0868	53	African American	Lymph Node	Prostate Adenocarcinoma	68	Yes
+MO_1263	MO_1263	56	0.1472	65	Caucasian	Lymph Node	Prostate Adenocarcinoma	117	Yes
+MO_1264	MO_1264	52	0.1359	22	Caucasian	Abdom. Nodule	Fibrolamellar Carcinoma	47	Yes
+MO_1265	MO_1265	128	0.9912	54	Caucasian	Liver	Colon Adenocarcinoma	62	Yes
+MO_1266	MO_1266	435	0.1498	58	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	117	Yes
+MO_1267	MO_1267	120	0.3783	63	Caucasian	Skin Punch	Breast Invasive Ductal Carcinoma	13	Yes
+MO_1268	MO_1268	160	0.5213	52	Caucasian	Retroperitoneum	Mullerian Poorly Differentiated Carcinoma	1	No
+MO_1269	MO_1269	347	0.7580	46	Caucasian	Sternal Mass	Breast Invasive Ductal Carcinoma	142	Yes
+MO_1271	MO_1271	697	0.5537	63	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	150	Yes
+MO_1272	MO_1272	36	0.3254	42	Caucasian	Lymph Node	Chromophobe Renal Cell Carcinoma	70	Yes
+MO_1274	MO_1274	65	0.6758	50	Caucasian	Liver	Small Cell Carcinoma of Unknown Primary	10	Yes
+MO_1276	MO_1276	54	0.2523	41	Caucasian	Lung	Breast Invasive Ductal Carcinoma	55	Yes
+MO_1277	MO_1277	52	0.8453	54	Caucasian	Bone	Prostate Adenocarcinoma	101	Yes
+MO_1278	MO_1278	9	0.0043	49	Caucasian	Liver	Perivascular Epithelioid Cell Tumor	4	Yes
+MO_1279	MO_1279	166	0.0278	65	African American	Lymph Node	Colon Adenocarcinoma	35	Yes
+MO_1283	MO_1283	46	0.2700	35	Caucasian	Pelvic Mass	Embryonal Rhabdomyosarcoma	7	Yes
+MO_1284	MO_1284	46	0.3646	61	Caucasian	Infraclavicular Mass	Lung Adenocarcinoma	2	No
+MO_1285	MO_1285	26	0.7446	28	Caucasian	Lymph Node	Poorly Differentiated Non-Small Cell Lung Cancer	2	No
+MO_1286	MO_1286	52	0.0000	58	Caucasian	Lymph Node	Lung Squamous Cell Carcinoma	21	Yes
+MO_1287	MO_1287	72	0.8873	56	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	34	Yes
+MO_1288	MO_1288	179	0.3259	77	Caucasian	Liver	Breast Invasive Ductal Carcinoma	168	Yes
+MO_1289	MO_1289	58	0.8034	49	Caucasian	Chest Wall	Breast Invasive Ductal Carcinoma	80	Yes
+MO_1290	MO_1290	114	0.7086	54	Caucasian	Lymph Node	Small Cell Bladder Cancer	6	Yes
+MO_1292	MO_1292	76	0.7589	35	African American	Liver	Breast Invasive Ductal Carcinoma	0	No
+MO_1294	MO_1294	177	0.2974	61	Caucasian	Lymph Node	Lung Adenocarcinoma	8	Yes
+MO_1295	MO_1295	14	0.1634	23	Caucasian	Abdom. Mass	Desmoplastic Small-Round-Cell Tumor	12	Yes
+MO_1296	MO_1296	51	0.7516	68	Caucasian	Liver	Pancreatobiliary Ampullary Carcinoma	13	Yes
+MO_1297	MO_1297	36	0.3682	67	Caucasian		Neuroendocrine Carcinoma of the Stomach Liver	179	Yes
+MO_1298	MO_1298	87	0.6240	64	African American	Chest Wall	Breast Invasive Ductal Carcinoma	141	Yes
+MO_1300	MO_1300	290	0.2913	75	Caucasian	Bladder	Breast Invasive Lobular Carcinoma	44	Yes
+MO_1301	MO_1301	120	0.3952	42	Caucasian	Brain	Breast Invasive Ductal Carcinoma	16	Yes
+MO_1302	MO_1302	110	0.2971	44	Caucasian	Peritoneal Fluid	Breast Invasive Ductal Carcinoma	61	Yes
+MO_1304	MO_1304	1165	0.2598	67	Caucasian	Subq	Cutaneous Squamous Cell Carcinoma	21	Yes
+MO_1305	MO_1305	35	0.4268	51	Caucasian	Liver	Inflammatory Breast Cancer	79	Yes
+MO_1306	MO_1306	68	0.5778	38	Caucasian	Liver	Yolk Sac Tumor	108	Yes
+MO_1307	MO_1307	3032	0.9911	69	Caucasian	Neck	Cutaneous Squamous Cell Carcinoma	14	Yes
+MO_1309	MO_1309	162	0.1061	61	Caucasian	Neck Mass	Oropharynx Squamous Cell Carcinoma	14	Yes
+MO_1310	MO_1310	50	0.0021	62	Caucasian	Liver	Leiomyosarcoma	88	Yes
+MO_1312	MO_1312	40	0.1334	61	Caucasian	Liver	Extrahepatic Cholangiocarcinoma	14	Yes
+MO_1313	MO_1313	47	0.7221	65	Caucasian	Liver	Soft Tissue Myoepithelial Carcinoma	46	Yes
+MO_1315	MO_1315	39	0.6126	54	Caucasian	Lung	Lung Squamous Cell Carcinoma	9	Yes
+MO_1316	MO_1316	57	0.8965	70	Caucasian	Lymph Node	Prostate Adenocarcinoma	182	Yes
+MO_1317	MO_1317	116	0.4099	58	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	74	Yes
+MO_1318	MO_1318	82	0.6464	63	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	45	Yes
+MO_1319	MO_1319	23	0.2319	61	Caucasian	Abdom. Mass	Gastrointestinal Stromal Tumor	46	Yes
+MO_1320	MO_1320	58	0.6261	44	South Asian	Skin Punch	Breast Invasive Ductal Carcinoma	12	Yes
+MO_1322	MO_1322	46	0.3544	27	Caucasian	Lung	Adrenocortical Carcinoma	17	Yes
+MO_1323	MO_1323	23	0.2943	65	Caucasian	Subq Chest Wall	Breast Invasive Ductal Carcinoma	93	Yes
+MO_1324	MO_1324	85	0.4840	57	Caucasian	Liver	Breast Invasive Ductal Carcinoma	108	Yes
+MO_1325	MO_1325	223	0.1205	54	Caucasian	Liver	Lung Adenocarcinoma	25	Yes
+MO_1328	MO_1328	331	0.2212	78	Caucasian	Lymph Node	Penile Squamous Cell Carcinoma	14	Yes
+MO_1329	MO_1329	17	0.0292	59	Caucasian	Shoulder Mass	Myxoid Chondrosarcoma	11	Yes
+MO_1330	MO_1330	335	0.3400	67	Caucasian	Sternal Mass	Breast Invasive Ductal Carcinoma	372	Yes
+MO_1331	MO_1331	121	0.6064	68	Caucasian	Lung	Oral Cavity Squamous Cell Carcinoma	16	Yes
+MO_1333	MO_1333	179	0.9531	34	Caucasian	Lymph Node	Embryonal Carcinoma	128	Yes
+MO_1335	MO_1335	67	0.6778	46	Caucasian	Liver	Breast Invasive Ductal Carcinoma	58	Yes
+MO_1336	MO_1336	58	0.8591	75	Caucasian	Bone	Prostate Adenocarcinoma	204	Yes
+MO_1337	MO_1337	46	0.2571	61	Caucasian	Liver	Prostate Adenocarcinoma	18	Yes
+MO_1338	MO_1338	122	0.5417	43	Caucasian	Liver	Intrahepatic Cholangiocarcinoma	5	Yes
+MO_1339	MO_1339	57	0.6872	78	Caucasian	Lymph Node	Prostate Adenocarcinoma	11	Yes
+MO_1340	MO_1340	124	0.2823	53	Caucasian	Peritoneal Fluid	Signet Ring Cell Carcinoma of the Stomach	26	Yes
+MO_1341	MO_1341	23	0.0033	31	African American	Abdom. Mass	Extrahepatic Cholangiocarcinoma	15	Yes
+MO_1342	MO_1342	106	0.7061	62	Caucasian	Bone	Adenocarcinoma, NOS	1	No
+MO_1343	MO_1343	103	0.7575	53	Caucasian	Lung	Oral Cavity Squamous Cell Carcinoma	58	Yes
+MO_1344	MO_1344	25	0.0117	57	Caucasian	Pleural Mass	Synovial Sarcoma	24	Yes
+MO_1345	MO_1345	171	0.7399	35	Caucasian	Neck Mass	Oral Cavity Squamous Cell Carcinoma	9	Yes
+MO_1346	MO_1346	45	0.6445	57	Caucasian	Lymph Node	Soft Tissue Myoepithelial Carcinoma	9	Yes
+MO_1347	MO_1347	6107	0.0131	46	Caucasian	Lymph Node	Extrahepatic Cholangiocarcinoma	11	Yes
+MO_1355	MO_1355	99	0.3129	65	Caucasian	Liver	Breast Invasive Ductal Carcinoma	180	Yes
+MO_1357	MO_1357	362	0.2388	52	Caucasian	Back	Cutaneous Melanoma	155	Yes
+MO_1359	MO_1359	118	0.6463	77	Caucasian	Liver	Breast Invasive Ductal Carcinoma	32	Yes
+MO_1360	MO_1360	107	0.3351	73	African American	Subq Nodule	Salivary Duct Carcinoma	4	Yes
+MO_1361	MO_1361	79	0.7973	55	Caucasian	Omentum	Bladder Urothelial Carcinoma	15	Yes
+MO_1362	MO_1362	36	0.0000	59	Caucasian	Lung	Oropharynx Squamous Cell Carcinoma	47	Yes
+MO_1363	MO_1363	2399	0.8296	55	Caucasian	Lymph Node	Poorly Differentiated Carcinoma, NOS	7	Yes
+MO_1364	MO_1364	81	0.6315	56	Caucasian	Liver	Breast Invasive Ductal Carcinoma	28	Yes
+MO_1366	MO_1366	328	0.8118	32	Caucasian	Abdom. Wall	Cutaneous Melanoma	192	Yes
+MO_1367	MO_1367	97	0.1140	39	Caucasian	Lymph Node	Oral Cavity Squamous Cell Carcinoma	23	Yes
+MO_1369	MO_1369	35	0.1172	65	Caucasian	Lung	Intrahepatic Cholangiocarcinoma	40	Yes
+MO_1370	MO_1370	113	0.7623	24	Caucasian	Thigh Mass	Undifferentiated Pleomorphic Sarcoma/Malignant Female	38	Yes
+MO_1371	MO_1371	18	0.1913	39	Caucasian	Scapular Mass	Granular Cell Tumor	40	Yes
+MO_1372	MO_1372	85	0.3326	73	Caucasian	Abdom. Wall	Mullerian Adenocarcinoma	24	Yes
+MO_1373	MO_1373	90	0.0555	69	Caucasian	Lung	Oral Cavity Squamous Cell Carcinoma	240	Yes
+MO_1374	MO_1374	176	0.5853	50	Caucasian	Breast	Cutaneous Melanoma	70	Yes
+MO_1375	MO_1375	139	0.8380	50	Caucasian	Liver	Esophageal Adenocarcinoma	11	Yes
+MO_1376	MO_1376	66	0.2780	73	Caucasian	Liver	Extrahepatic Cholangiocarcinoma	8	Yes
+MO_1377	MO_1377	28	0.2435	53	Caucasian	Liver	Adrenocortical Carcinoma	151	Yes
+MO_1378	MO_1378	89	0.4767	52	Caucasian	Lymph Node	Serous Ovarian Cancer	23	Yes
+MO_1379	MO_1379	18	0.1878	69	Caucasian	Abdom. Mass	Adenocarcinoma, NOS	36	Yes
+MO_1380	MO_1380	146	0.2681	67	Caucasian	Liver	Esophageal Adenocarcinoma	19	Yes
+MO_1381	MO_1381	9	0.0000	55	Caucasian	Lung	Extraskeletal Myxoid Chondrosarcoma	252	Yes
+MO_1382	MO_1382	29	0.0796	57	Caucasian	Lung	Synovial Sarcoma	26	Yes
+MO_1383	MO_1383	39	0.1922	58	Caucasian	Liver	Adenocarcinoma, NOS	1	No
+MO_1384	MO_1384	60	0.2172	59	Caucasian	Bone	Breast Invasive Ductal Carcinoma	60	Yes
+MO_1385	MO_1385	25	0.1148	49	Caucasian	Submandible	Adenoid Cystic Carcinoma	140	Yes
+MO_1386	MO_1386	10	0.0021	49	Caucasian	Skin	Breast Invasive Ductal Carcinoma	16	Yes
+MO_1387	MO_1387	24	0.0946	39	Caucasian	Bone	Breast Invasive Ductal Carcinoma	32	Yes
+MO_1388	MO_1388	85	0.0092	44	Caucasian	Brain	Extrahepatic Cholangiocarcinoma	10	Yes
+MO_1390	MO_1390	24	0.0163	40	African American	Brain	Adenoid Cystic Carcinoma	28	Yes
+MO_1391	MO_1391	28	0.0273	47	Caucasian	Mesenteric Mass	Myxoid/Round-Cell Liposarcoma	49	Yes
+MO_1393	MO_1393	101	0.9624	62	Caucasian	Liver	Serous Ovarian Cancer	33	Yes
+MO_1394	MO_1394	26	0.0074	52	Caucasian	Retroperitoneum	High-Grade Sarcoma Retroperitoneum	53	Yes
+MO_1395	MO_1395	131	0.3166	58	Caucasian	Liver	Esophageal Adenocarcinoma	1	No
+MO_1396	MO_1396	105	0.1022	68	Caucasian	Thyroid	Anaplastic Thyroid Cancer	3	Yes
+MO_1397	MO_1397	361	0.0214	51	Caucasian	Lymph Node	Poorly Differentiated Non-Small Cell Lung Cancer	21	Yes
+MO_1399	MO_1399	165	0.5825	59	Caucasian	Bone	Breast Invasive Ductal Carcinoma	45	Yes
+MO_1400	MO_1400	151	0.5847	52	Caucasian	Liver	Esophageal Squamous Cell Carcinoma	10	Yes
+MO_1402	MO_1402	34	0.7120	53	Caucasian	Liver	Intrahepatic Cholangiocarcinoma	17	Yes
+MO_1403	MO_1403	21	0.1946	60	Caucasian	Abdom. Mass	Dedifferentiated Liposarcoma	77	Yes
+MO_1404	MO_1404	29	0.1574	77	Caucasian	Abdom. Mass	Uterine Leiomyosarcoma	23	Yes
+MO_1407	MO_1407	115	0.6634	74	Caucasian	Lymph Node	Poorly Differentiated Carcinoma, NOS	29	Yes
+MO_1408	MO_1408	44	0.2451	70	Caucasian	Lung	Adenoid Cystic Carcinoma	146	Yes
+MO_1410	MO_1410	71	0.7574	66	Caucasian	Liver	Prostate Adenocarcinoma	32	Yes
+MO_1411	MO_1411	86	0.5273	38	African American	Chest Wall	Breast Invasive Lobular Carcinoma	18	Yes
+MO_1412	MO_1412	442	0.0282	63	Caucasian	Lymph Node	Cutaneous Melanoma	120	Yes
+MO_1415	MO_1415	31	0.0500	46	African American	Skin Punch	Breast Invasive Ductal Carcinoma	19	Yes
+MO_1416	MO_1416	164	0.8468	39	Caucasian	Liver	Esophageal Adenocarcinoma	1	No
+MO_1418	MO_1418	60	0.1909	55	African American	Lymph Node	Breast Invasive Ductal Carcinoma	9	Yes
+MO_1419	MO_1419	389	0.9620	66	Caucasian	Peritoneal Nodule	Sarcomatoid	11	Yes
+MO_1420	MO_1420	45	0.2492	64	Caucasian	Bone	Prostate Adenocarcinoma	40	Yes
+MO_1421	MO_1421	59	0.2954	56	Caucasian	Bone	Prostate Adenocarcinoma	24	Yes
+MO_1423	MO_1423	33	0.2410	31	Caucasian	MISC	Adamantinoma	163	Yes
+MO_1424	MO_1424	36	0.2019	64	Caucasian	Liver	Breast Invasive Ductal Carcinoma	18	Yes
+MO_1425	MO_1425	212	0.3859	47	Caucasian	Lymph Node	Breast Invasive Lobular Carcinoma	56	Yes
+MO_1426	MO_1426	96	0.5739	66	Caucasian	Brain	Breast Invasive Ductal Carcinoma	27	Yes
+MO_1427	MO_1427	43	0.4188	55	Caucasian	Chest Wall	Breast Invasive Ductal Carcinoma	197	Yes
+MO_1428	MO_1428	58	0.7686	63	Caucasian	Liver	Adenocarcinoma, NOS	9	Yes
+MO_1433	MO_1433	676	0.4035	50	Caucasian	Lymph Node	Lung Adenocarcinoma	7	Yes
+MO_1434	MO_1434	56	0.4818	56	Caucasian	Liver	Adrenocortical Carcinoma	42	Yes
+MO_1435	MO_1435	128	0.6988	58	Caucasian	Liver	Breast Invasive Lobular Carcinoma	192	Yes
+MO_1437	MO_1437	69	0.0603	67	Caucasian	Liver	Prostate Adenocarcinoma	3	Yes
+MO_1438	MO_1438	14	0.1200	33	Caucasian	Thigh	Alveolar Soft Part Sarcoma	5	Yes
+MO_1439	MO_1439	60	0.6316	32	Caucasian	Liver	Metaplastic Breast Cancer	55	Yes
+MO_1442	MO_1442	220	0.2517	53	Caucasian	Abdom. Mass	Adrenocortical Carcinoma	10	Yes
+MO_1443	MO_1443	56	0.0490	63	Caucasian	Bone	Prostate Adenocarcinoma	10	Yes
+MO_1444	MO_1444	1489	0.2301	60	Hispanic	Psoas Muscle	Breast Invasive Ductal Carcinoma	84	Yes
+MO_1446	MO_1446	83	0.2445	58	Caucasian	Bone	Prostate Adenocarcinoma	7	Yes
+MO_1447	MO_1447	109	0.8146	58	Caucasian	Lymph Node	Prostate Adenocarcinoma	10	Yes
+MO_1448	MO_1448	50	0.4149	65	Caucasian	Liver	Intrahepatic Cholangiocarcinoma	31	Yes
+MO_1449	MO_1449	26	0.0002	22	Caucasian	Lung	Ewing Sarcoma	34	Yes
+MO_1452	MO_1452	73	0.4519	60	Caucasian	Ovary	Ovarian Adenocarcinoma Lymph Node	47	Yes
+MO_1453	MO_1453	141	0.7997	53	Caucasian	Lymph Node	Esophageal Squamous Cell Carcinoma	18	Yes
+MO_1454	MO_1454	47	0.1357	81	Caucasian	Liver	Breast Invasive Lobular Carcinoma	1	No
+MO_1455	MO_1455	295	0.2896	65	Caucasian	Bone	Breast Invasive Lobular Carcinoma	165	Yes
+MO_1458	MO_1458	54	0.9705	71	Caucasian	Omentum	Serous Ovarian Cancer	2	No
+MO_1459	MO_1459	576	0.0861	66	Caucasian	Lymph Node	Esophageal Adenocarcinoma	26	Yes
+MO_1460	MO_1460	41	0.5036	64	Caucasian	Liver	Prostate Neuroendocrine Carcinoma	29	Yes
+MO_1462	MO_1462	9	0.0001	20	Caucasian	Liver	Fibrolamellar Carcinoma	3	Yes
+MO_1464	MO_1464	61	0.9019	68	Caucasian	Thoracic Fluid	Serous Ovarian Cancer	1	No
+MO_1465	MO_1465	37	0.1250	42	Caucasian	Brain	Glioblastoma Multiforme	5	Yes
+MO_1466	MO_1466	2	0.3811	74	Caucasian	Liver	Pancreatic Neuroendocrine Tumor	57	Yes
+MO_1469	MO_1469	46	0.1911	65	African American	Pelvic Mass	Prostate Neuroendocrine Carcinoma	84	Yes
+MO_1472	MO_1472	51	0.8992	66	Caucasian	Lymph Node	Prostate Neuroendocrine Carcinoma	26	Yes
+MO_1473	MO_1473	97	0.9449	76	Caucasian	Bone	Prostate Adenocarcinoma	167	Yes
+MO_1474	MO_1474	38	0.3401	49	Caucasian	Lung	Breast Invasive Ductal Carcinoma	12	Yes
+MO_1475	MO_1475	15	0.0000	27	Caucasian	Lung	Myxofibrosarcoma	20	Yes
+MO_1476	MO_1476	182	0.3993	71	Caucasian	Liver	Esophageal Squamous Cell Carcinoma	1	No
+MO_1477	MO_1477	124	0.4237	56	Caucasian	Liver	Esophageal Adenocarcinoma	1	No
+MO_1478	MO_1478	28	0.5621	62	Caucasian	Lymph Node	Pancreatic Neuroendocrine Tumor	10	Yes
+MO_1479	MO_1479	66	0.2192	55	Caucasian	Lung	Rhabdomyosarcoma	18	Yes
+MO_1480	MO_1480	138	0.9181	59	Caucasian	Liver	Esophageal Adenocarcinoma	4	Yes
+MO_1481	MO_1481	1718	0.8447	49	Caucasian	Lung	Soft Tissue Myoepithelial Carcinoma	23	Yes
+MO_1482	MO_1482	28	0.8608	59	Caucasian	Liver	Prostate Neuroendocrine Carcinoma	77	Yes
+MO_1483	MO_1483	47	0.4862	49	Caucasian	Lung	Undifferentiated Pleomorphic Sarcoma	20	Yes
+MO_1484	MO_1484	19	0.1150	49	Caucasian	Lung	Myoepithelial Carcinoma	33	Yes
+MO_1485	MO_1485	34	0.0825	66	Caucasian	Liver	Intrahepatic Cholangiocarcinoma	3	No
+MO_1486	MO_1486	83	0.6735	66	Caucasian	Liver	Pancreatic Adenocarcinoma	8	Yes
+MO_1487	MO_1487	19	0.0402	31	Caucasian	Lymph Node	Sex Cord Stromal Tumor	3	No
+MO_1488	MO_1488	74	0.6323	66	Caucasian	Abdom. Mass	Head and Neck Neuroendocrine Carcinoma	15	Yes
+MO_1489	MO_1489	376	0.7827	71	Caucasian	Liver	Esophageal Squamous Cell Carcinoma	25	Yes
+MO_1490	MO_1490	135	0.3467	74	Caucasian	Bone	Prostate Adenocarcinoma	130	Yes
+MO_1491	MO_1491	48	0.4201	65	Caucasian	Liver	Adenosarcoma	19	Yes
+MO_1492	MO_1492	62	0.7367	59	Caucasian	Neck Mass	Prostate Adenocarcinoma	81	Yes
+MO_1493	MO_1493	103	0.0939	66	Caucasian	Pelvic Mass	Esophageal Adenocarcinoma	30	Yes
+MO_1494	MO_1494	61	0.1912	52	South Asian	Liver	Pancreatic Adenocarcinoma	11	Yes
+MO_1495	MO_1495	110	0.6997	72	Caucasian	Liver	Breast Invasive Ductal Carcinoma	168	Yes
+MO_1496	MO_1496	41	0.2053	58	Caucasian	Lymph Node	Prostate Neuroendocrine Carcinoma	1	No
+MO_1499	MO_1499	43	0.8460	73	Caucasian	Bone	Prostate Adenocarcinoma	52	Yes
+MO_1500	MO_1500	149	0.7623	67	Caucasian	Liver	Esophageal Adenocarcinoma	1	No
+MO_1502	MO_1502	19	0.1638	71	Caucasian	Lung	Adenoid Cystic Carcinoma	28	Yes
+MO_1503	MO_1503	118	0.4549	43	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	13	Yes
+MO_1506	MO_1506	300	0.5805	58	Caucasian	Lymph Node	Esophageal Adenocarcinoma	22	Yes
+MO_1507	MO_1507	152	0.5456	58	Caucasian	Liver	Neuroendocrine Tumor, NOS	6	Yes
+MO_1509	MO_1509	158	0.5463	63	Caucasian	Bone	Breast Invasive Lobular Carcinoma	28	Yes
+MO_1510	MO_1510	57	0.9372	64	Caucasian	Lymph Node	Prostate Adenocarcinoma	43	Yes
+MO_1511	MO_1511	42	0.7871	69	Caucasian	Lymph Node	Prostate Adenocarcinoma	17	Yes
+MO_1513	MO_1513	31	0.2736	61	Caucasian	Liver	Breast Invasive Ductal Carcinoma	240	Yes
+MO_1514	MO_1514	130	0.2655	74	Caucasian	Lymph Node	Prostate Adenocarcinoma	64	Yes
+MO_1515	MO_1515	177	0.3235	55	Caucasian	Liver	Breast Invasive Ductal Carcinoma	105	Yes
+MO_1516	MO_1516	67	0.7601	58	Caucasian	Liver	Breast Invasive Ductal Carcinoma	153	Yes
+MO_1517	MO_1517	91	0.8283	75	Caucasian	Adrenal	Prostate Adenocarcinoma	67	Yes
+MO_1518	MO_1518	37	0.9247	63	Caucasian	Liver	Poorly Differentiated Carcinoma, NOS	2	No
+MO_1520	MO_1520	198	0.1820	53	Hispanic	Shoulder	Esophageal Adenocarcinoma	12	Yes
+MO_1521	MO_1521	9	0.0000	66	Caucasian	Liver	Breast Invasive Ductal Carcinoma	224	Yes
+MO_1522	MO_1522	66	0.0736	66	Caucasian	Lymph Node	Collecting Duct Renal Cell Carcinoma	8	Yes
+MO_1524	MO_1524	172	0.3568	59	Caucasian	Lymph Node	Breast Invasive Lobular Carcinoma	29	Yes
+MO_1525	MO_1525	42	0.0422	63	Caucasian	Pleural Mass	Osteosarcoma	120	Yes
+MO_1527	MO_1527	220	0.4526	58	Caucasian	Hip Lesion	Breast Invasive Ductal Carcinoma	62	Yes
+MO_1528	MO_1528	107	0.4763	63	Caucasian	Liver	Breast Invasive Ductal Carcinoma	7	Yes
+MO_1529	MO_1529	55	0.8495	48	Caucasian	Liver	Pancreatic Neuroendocrine Tumor	2	Yes
+MO_1530	MO_1530	144	0.9908	71	Caucasian	Liver	Renal Clear Cell Carcinoma	91	Yes
+MO_1532	MO_1532	39	0.0950	48	Caucasian	Lymph Node	Salivary Carcinoma	84	Yes
+MO_1533	MO_1533	1066	0.4761	59	Caucasian	Subq Nodule	Breast Invasive Ductal Carcinoma	57	Yes
+MO_1534	MO_1534	165	0.9021	31	Caucasian	Liver	Breast Invasive Ductal Carcinoma	55	Yes
+MO_1536	MO_1536	7	0.2242	55	Caucasian	Liver	Breast Invasive Ductal Carcinoma	11	Yes
+MO_1537	MO_1537	28	0.4357	45	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	27	Yes
+MO_1540	MO_1540	118	0.5282	50	Caucasian	Bone	Breast Invasive Ductal Carcinoma	27	Yes
+MO_1541	MO_1541	96	0.3200	71	South Asian	Liver	Prostate Adenocarcinoma	14	Yes
+MO_1542	MO_1542	36	0.6257	67	Caucasian	Lymph Node	Poorly Differentiated Carcinoma, NOS	2	No
+MO_1543	MO_1543	48	0.6642	61	Caucasian	Liver	Prostate Adenocarcinoma	132	Yes
+MO_1547	MO_1547	130	0.2773	66	Caucasian	Lymph Node	Salivary Carcinoma, Other	30	Yes
+MO_1550	MO_1550	10	0.5744	61	African American	Liver	Intrahepatic Cholangiocarcinoma	27	Yes
+MO_1551	MO_1551	50	0.1463	72	Caucasian	Liver	Breast Invasive Ductal Carcinoma	20	Yes
+MO_1552	MO_1552	20	0.3807	41	Caucasian	Liver	Intrahepatic Cholangiocarcinoma	15	Yes
+MO_1553	MO_1553	47	0.1132	56	Caucasian	Lymph Node	Prostate Adenocarcinoma	93	Yes
+MO_1555	MO_1555	19	0.6989	70	Caucasian	Subq Nodule	Angiosarcoma	39	Yes
+MO_1556	MO_1556	83	0.8062	59	Caucasian	Lymph Node	Prostate Adenocarcinoma	107	Yes
+MO_1557	MO_1557	87	0.8605	66	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	149	Yes
+MO_1558	MO_1558	236	0.0630	77	Caucasian	Lymph Node	Lung Adenocarcinoma	25	Yes
+MO_1562	MO_1562	78	0.5436	60	Caucasian	Axillary Mass	Breast Invasive Ductal Carcinoma	21	Yes
+MO_1563	MO_1563	61	0.5251	68	Caucasian	Omental Mass	Squamous Cell Carcinoma, NOS	2	No
+TP_2001	TP_2001	29	0.9221	70	Caucasian	Lymph Node	Prostate Adenocarcinoma	39	Yes
+TP_2002	TP_2002	166	0.8236	59	Caucasian	Peritoneal Fluid	Adenocarcinoma, NOS	98	Yes
+TP_2004	TP_2004	35	0.4246	52	Caucasian	Bone	Breast Invasive Carcinoma, NOS	17	Yes
+TP_2008	TP_2008	30	0.3324	26	Caucasian	Liver	Intrahepatic Cholangiocarcinoma	16	Yes
+TP_2009	TP_2009	89	0.2958	58	Caucasian	Bone	Prostate Adenocarcinoma	21	Yes
+TP_2010	TP_2010	34	0.8454	64	Caucasian	Lymph Node	Prostate Adenocarcinoma	66	Yes
+TP_2011	TP_2011	398	0.2835	56	Caucasian	Liver	Renal Cell Carcinoma	180	Yes
+TP_2013	TP_2013	30	0.0089	58	East Asian	Liver	Angiosarcoma	27	Yes
+TP_2014	TP_2014	56	0.2994	70	African American	Omentum	Uterine Endometrioid Carcinoma	36	Yes
+TP_2015	TP_2015	63	0.5265	53	Caucasian	Lymph Node	Breast Invasive Ductal Carcinoma	143	Yes
+TP_2016	TP_2016	102	0.1924	32	Caucasian	Lymph Node	Extrahepatic Cholangiocarcinoma	23	Yes
+TP_2017	TP_2017	254	0.3495	51	Caucasian	Abdom. Mass	Colon Adenocarcinoma	84	Yes
+TP_2018	TP_2018	99	0.3476	72	Caucasian	Thigh Mass	Penile Squamous Cell Carcinoma	13	Yes
+TP_2019	TP_2019	204	0.2409	49	Caucasian	Subq Nodule	Cutaneous Melanoma	3	Yes
+TP_2020	TP_2020	71	0.1821	55	Caucasian	Bone	Prostate Adenocarcinoma	39	Yes
+TP_2021	TP_2021	91	0.4736	56	Caucasian	Lymph Node	Urethral Urothelial Carcinoma	61	Yes
+TP_2023	TP_2023	4	0.1324	23	Caucasian	Thigh Mass	Undifferentiated High-Grade Sarcoma	3	Yes
+TP_2024	TP_2024	107	0.2632	56	Caucasian	Liver	Small Cell Lung Cancer	59	Yes
+TP_2025	TP_2025	103	0.4748	64	African American	Liver	Breast Invasive Ductal Carcinoma	112	Yes
+TP_2027	TP_2027	269	0.2197	68	Caucasian	Subq Nodule	Cutaneous Melanoma	54	Yes
+TP_2028	TP_2028	35	0.3457	72	Caucasian	Subq Nodule	Sebaceous Carcinoma	48	Yes
+TP_2029	TP_2029	86	0.7234	45	Caucasian	Abdom. Mass	Colon Adenocarcinoma	17	Yes
+TP_2032	TP_2032	47	0.2257	74	Caucasian	Peritoneal Nodule	Prostate Adenocarcinoma	123	Yes
+TP_2034	TP_2034	48	0.2495	50	East Asian	Bone	Prostate Adenocarcinoma	14	Yes
+TP_2037	TP_2037	49	0.1544	49	Caucasian	Lymph Node	Prostate Adenocarcinoma	176	Yes
+TP_2038	TP_2038	54	0.6563	64	South Asian	Liver	Intrahepatic Cholangiocarcinoma	18	Yes
+TP_2042	TP_2042	54	0.1030	70	Caucasian	Lung	Lung Adenocarcinoma	10	Yes
+TP_2043	TP_2043	18	0.0002	62	Caucasian	Lung	Solitary Fibrous Tumor	106	Yes
+TP_2047	TP_2047	43	0.0524	52	Caucasian	Lung	Pancreatic Adenocarcinoma	24	Yes
+TP_2050	TP_2050	248	0.6348	61	Caucasian	Abdom. Mass	Seminal Vesicle Carcinoma	5	Yes
+TP_2052	TP_2052	177	0.0000	52	Caucasian	Adrenal	Poorly Differentiated Non-Small Cell Lung Cancer	16	Yes
+TP_2054	TP_2054	110	0.3390	70	South Asian	Lymph Node	Prostate Adenocarcinoma	33	Yes
+TP_2055	TP_2055	9	0.0000	41	East Asian	Brain	Atypical Meningioma	58	Yes
+TP_2056	TP_2056	40	0.2228	46	Caucasian	Brain	Glioblastoma Multiforme	7	Yes
+TP_2058	TP_2058	144	0.6751	62	Caucasian	Bladder	Bladder Urothelial Carcinoma	0	No
+TP_2059	TP_2059	80	0.0397	71	Caucasian	Lymph Node	Extramammary Paget Disease	18	Yes
+TP_2060	TP_2060	88	0.0511	72	Caucasian	Lymph Node	Prostate Adenocarcinoma	17	Yes
+TP_2061	TP_2061	55	0.6363	65	Caucasian	Pelvic Mass	Prostate Carcinosarcoma	61	Yes
+TP_2064	TP_2064	51	0.6628	72	Caucasian	Lymph Node	Prostate Adenocarcinoma	114	Yes
+TP_2065	TP_2065	43	0.1305	52	Caucasian	Brain	Glioblastoma Multiforme	3	Yes
+TP_2067	TP_2067	166	0.5294	66	Caucasian	Pelvic Mass	Uterine Leiomyosarcoma	7	Yes
+TP_2069	TP_2069	122	0.8782	66	Caucasian	Lymph Node	Prostate Adenocarcinoma	29	Yes
+TP_2070	TP_2070	45	0.3361	64	Caucasian	Pelvic Mass	Uterine Leiomyosarcoma	48	Yes
+TP_2071	TP_2071	30	0.1714	52	East Asian	Pelvic Mass	Clear Cell Ovarian Cancer	12	Yes
+TP_2072	TP_2072	28	0.2229	38	African American	Spinal Mass	Solitary Fibrous Tumor	5	Yes
+TP_2073	TP_2073	34	0.2811	52	Caucasian	Lymph Node	Pleural Mesothelioma	17	Yes
+TP_2074	TP_2074	15	0.0602	66	Caucasian	Lymph Node	Clear Cell Ovarian Cancer	21	Yes
+TP_2075	TP_2075	35	0.1096	43	Caucasian	Lacrimal Gland	Solitary Fibrous Tumor	11	Yes
+TP_2077	TP_2077	34	0.0991	68	Caucasian	Lymph Node	Prostate Adenocarcinoma	84	Yes
+TP_2078	TP_2078	85	0.9100	86	Caucasian	Lymph Node	Prostate Adenocarcinoma	172	Yes
+TP_2079	TP_2079	51	0.8821	67	Caucasian	Bone	Prostate Adenocarcinoma	69	Yes
+TP_2080	TP_2080	29	0.1019	57	Caucasian	Prostate	Prostate Adenocarcinoma	2	Yes
+TP_2081	TP_2081	67	0.4254	63	Caucasian	Bone	Prostate Adenocarcinoma	37	Yes
+TP_2083	TP_2083	103	0.8043	67	Caucasian	Liver	Breast Invasive Ductal Carcinoma	171	Yes
+TP_2086	TP_2086	52	0.2738	74	Caucasian	Liver	Pancreatic Adenocarcinoma	53	Yes
+TP_2087	TP_2087	104	0.3773	59	Caucasian	Colon	Serous Ovarian Cancer	29	Yes
+TP_2090	TP_2090	4	0.0000	37	Caucasian	Bone	Prostate Adenocarcinoma	12	Yes
+TP_2091	TP_2091	39	0.1108	58	Caucasian	Brain	Glioblastoma Multiforme	5	Yes
+TP_2093	TP_2093	40	0.3304	64	Caucasian	Lymph Node	Prostate Adenocarcinoma	12	Yes
+TP_2096	TP_2096	92	0.3208	54	Caucasian	Lymph Node	Prostate Adenocarcinoma	60	Yes
+TP_2098	TP_2098	46	0.2662	78	Caucasian	Gluteal Mass	Myoepithelial Carcinoma	88	Yes
+TP_2100	TP_2100	217	0.3179	66	Caucasian	Liver	Esophageal Squamous Cell Carcinoma	1	No
+TP_2101	TP_2101	226	0.8356	46	Caucasian	Lung	Oral Cavity Squamous Cell Carcinoma	29	Yes
+TP_2102	TP_2102	688	0.6739	44	Caucasian	Arm	Undifferentiated Pleomorphic Sarcoma	61	Yes
+TP_2106	TP_2106	116	0.2404	59	Caucasian	Bone	Pancreatic Adenocarcinoma	53	Yes
+TP_2109	TP_2109	42	0.1188	48	Caucasian	Lymph Node	Breast Invasive Lobular Carcinoma	1	No
+TP_2118	TP_2118	160	0.5484	45	African American	Lymph Node	Breast Invasive Ductal Carcinoma	16	Yes
+TP_2119	TP_2119	57	0.3406	59	Caucasian	Liver	Dedifferentiated Chondrosarcoma	108	Yes
+TP_2120	TP_2120	91	0.3460	64	Caucasian	Brain	Glioblastoma Multiforme	1	No
+TP_2122	TP_2122	308	0.4774	67	Caucasian	Lymph Node	Metaplastic Breast Cancer	9	Yes
+TP_2123	TP_2123	11	0.4857	25	Caucasian	Brain	Ependymoma	197	Yes
+TP_2130	TP_2130	121	0.5654	70	Caucasian	Sphenoid Sinus	Sinonasal Squamous Cell Carcinoma	11	Yes
+TP_2131	TP_2131	502	0.0764	77	Caucasian	Liver	Bladder Urothelial Carcinoma	7	Yes
+TP_2141	TP_2141	10	0.3750	43	Caucasian	Liver	Breast Invasive Ductal Carcinoma	36	Yes
+TP_2156	TP_2156	77	0.6824	75	Caucasian	Liver	Prostate Adenocarcinoma	156	Yes

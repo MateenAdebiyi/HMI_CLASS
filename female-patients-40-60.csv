@@ -1,0 +1,116 @@
+,Patient ID,Sample ID,Mutation Count,Fraction Genome Altered,Age, Race Category,Biopsy Site,Cancer Type Other,Interval (Months),Prior Therapy,Sex,Somatic Status
+4,MO_1002,MO_1002,959,0.6046,49,Caucasian,Skin,Cutaneous Melanoma,26,Yes,Female,Matched
+5,MO_1005,MO_1005,16,0.0,44,Caucasian,Liver,Solitary Fibrous Tumor,108,Yes,Female,Matched
+24,MO_1031,MO_1031,256,0.4733,41,Caucasian,Liver,Breast Invasive Ductal Carcinoma,155,Yes,Female,Matched
+26,MO_1033,MO_1033,44,0.1605,54,Caucasian,Liver,Anal Squamous Cell Carcinoma,27,Yes,Female,Matched
+35,MO_1043,MO_1043,16,0.0878,48,Caucasian,Lymph Node,Salivary Clear Cell Carcinoma,10,Yes,Female,Matched
+45,MO_1053,MO_1053,122,0.7368,49,Caucasian,Adrenal,Adrenocortical Carcinoma,13,Yes,Female,Matched
+48,MO_1059,MO_1059,59,0.8528,49,Caucasian,Liver,Pancreatic Neuroendocrine Tumor,33,Yes,Female,Matched
+54,MO_1065,MO_1065,159,0.5776,46,Caucasian,Lymph Node,Breast Invasive Ductal Carcinoma,74,Yes,Female,Matched
+73,MO_1089,MO_1089,34,0.1918,58,Caucasian,Periaortic Mass,Solid Pseudopapillary Neoplasm of the Pancreas,3,Yes,Female,Matched
+74,MO_1090,MO_1090,35,0.1263,52,Caucasian,Chest Wall,Breast Invasive Ductal Carcinoma,227,Yes,Female,Matched
+75,MO_1091,MO_1091,114,0.6405,58,Caucasian,Abdom. Wall,Small Cell Bladder Cancer,3,Yes,Female,Matched
+81,MO_1097,MO_1097,167,0.1215,57,Caucasian,Liver,Bladder Urothelial Carcinoma,9,Yes,Female,Matched
+83,MO_1099,MO_1099,466,0.8359,45,Caucasian,Liver,Bladder Squamous Cell Carcinoma,6,Yes,Female,Matched
+87,MO_1107,MO_1107,88,0.4044,46,Caucasian,Liver,Breast Invasive Ductal Carcinoma,88,Yes,Female,Matched
+90,MO_1111,MO_1111,1502,0.5077,54,Caucasian,Lymph Node,Lung Adenocarcinoma,17,Yes,Female,Matched
+94,MO_1117,MO_1117,56,0.1394,53,Caucasian,Liver,Hepatocellular Carcinoma HCC Liver,70,Yes,Female,Matched
+100,MO_1126,MO_1126,84,0.2169,55,Caucasian,Liver,Breast Invasive Ductal Carcinoma,12,Yes,Female,Matched
+102,MO_1129,MO_1129,28,0.2089,44,Caucasian,Liver,Breast Invasive Ductal Carcinoma,141,Yes,Female,Matched
+106,MO_1133,MO_1133,32,0.3758,49,Caucasian,Epidural,Synovial Sarcoma,51,Yes,Female,Matched
+110,MO_1138,MO_1138,42,0.3371,60,Caucasian,Pelvis,High-Grade Serous Ovarian Cancer,0,No,Female,Matched
+123,MO_1157,MO_1157,61,0.6607,49,Caucasian,Retroperitoneum,Uterine Leiomyosarcoma,17,Yes,Female,Matched
+125,MO_1159,MO_1159,135,0.4947,54,Caucasian,Liver,Breast Invasive Ductal Carcinoma,24,Yes,Female,Matched
+130,MO_1164,MO_1164,48,0.2907,51,Caucasian,Brain,Renal Clear Cell Carcinoma,18,Yes,Female,Matched
+133,MO_1167,MO_1167,37,0.3642,60,Caucasian,Liver,Breast Invasive Ductal Carcinoma,214,Yes,Female,Matched
+137,MO_1172,MO_1172,26,0.2441,55,Caucasian,Lung,Pancreatic Adenocarcinoma,45,Yes,Female,Matched
+145,MO_1182,MO_1182,72,0.7209,52,African American,Gluteal Mass,Leiomyosarcoma,44,Yes,Female,Matched
+148,MO_1185,MO_1185,74,0.2586,58,Caucasian,Peritoneal Fluid,Breast Invasive Lobular Carcinoma,195,Yes,Female,Matched
+155,MO_1194,MO_1194,68,0.3962,60,Caucasian,Chest Wall,Lung Adenocarcinoma,39,Yes,Female,Matched
+156,MO_1195,MO_1195,75,0.2915,56,Caucasian,Lymph Node,"Adenocarcinoma, NOS",0,No,Female,Matched
+163,MO_1203,MO_1203,36,0.0665,47,Caucasian,Subcut. Abdomen,Intrahepatic Cholangiocarcinoma,8,Yes,Female,Matched
+164,MO_1204,MO_1204,195,0.4041,46,Caucasian,Subcut. Periumbilical,Urachal Adenocarcinoma,64,Yes,Female,Matched
+165,MO_1206,MO_1206,229,0.6895,54,Caucasian,Liver,Lung Squamous Cell Carcinoma,14,Yes,Female,Matched
+170,MO_1213,MO_1213,33,0.5548,43,Caucasian,Liver,Breast Invasive Ductal Carcinoma,8,Yes,Female,Matched
+180,MO_1226,MO_1226,97,0.6866,48,Caucasian,Chest Wall Nodule,Angiosarcoma,114,Yes,Female,Matched
+181,MO_1227,MO_1227,352,0.2358,58,Caucasian,Bone,Breast Invasive Lobular Carcinoma,74,Yes,Female,Matched
+182,MO_1228,MO_1228,1200,0.4929,54,Caucasian,Parotid,Skin Adnexal Carcinoma,15,Yes,Female,Matched
+185,MO_1231,MO_1231,39,0.0257,45,Caucasian,Pelvic Mass,Stomach Adenocarcinoma,20,Yes,Female,Matched
+187,MO_1233,MO_1233,22,0.257,44,Caucasian,Liver,Adenoid Cystic Carcinoma,22,Yes,Female,Matched
+189,MO_1237,MO_1237,51,0.539,43,South Asian,Liver,Breast Invasive Ductal Carcinoma,15,Yes,Female,Matched
+190,MO_1239,MO_1239,169,0.2617,58,Caucasian,Liver,Breast Invasive Ductal Carcinoma,50,Yes,Female,Matched
+194,MO_1245,MO_1245,30,0.3122,47,Caucasian,Lung,Uterine Leiomyosarcoma,76,Yes,Female,Matched
+195,MO_1247,MO_1247,25,0.3998,46,Caucasian,Liver,Breast Invasive Ductal Carcinoma,128,Yes,Female,Matched
+207,MO_1265,MO_1265,128,0.9912,54,Caucasian,Liver,Colon Adenocarcinoma,62,Yes,Female,Matched
+208,MO_1266,MO_1266,435,0.1498,58,Caucasian,Lymph Node,Breast Invasive Ductal Carcinoma,117,Yes,Female,Matched
+210,MO_1268,MO_1268,160,0.5213,52,Caucasian,Retroperitoneum,Mullerian Poorly Differentiated Carcinoma,1,No,Female,Matched
+211,MO_1269,MO_1269,347,0.758,46,Caucasian,Sternal Mass,Breast Invasive Ductal Carcinoma,142,Yes,Female,Matched
+215,MO_1276,MO_1276,54,0.2523,41,Caucasian,Lung,Breast Invasive Ductal Carcinoma,55,Yes,Female,Matched
+217,MO_1278,MO_1278,9,0.0043,49,Caucasian,Liver,Perivascular Epithelioid Cell Tumor,4,Yes,Female,Matched
+222,MO_1286,MO_1286,52,0.0,58,Caucasian,Lymph Node,Lung Squamous Cell Carcinoma,21,Yes,Female,Matched
+223,MO_1287,MO_1287,72,0.8873,56,Caucasian,Lymph Node,Breast Invasive Ductal Carcinoma,34,Yes,Female,Matched
+225,MO_1289,MO_1289,58,0.8034,49,Caucasian,Chest Wall,Breast Invasive Ductal Carcinoma,80,Yes,Female,Matched
+234,MO_1301,MO_1301,120,0.3952,42,Caucasian,Brain,Breast Invasive Ductal Carcinoma,16,Yes,Female,Matched
+235,MO_1302,MO_1302,110,0.2971,44,Caucasian,Peritoneal Fluid,Breast Invasive Ductal Carcinoma,61,Yes,Female,Matched
+237,MO_1305,MO_1305,35,0.4268,51,Caucasian,Liver,Inflammatory Breast Cancer,79,Yes,Female,Matched
+244,MO_1315,MO_1315,39,0.6126,54,Caucasian,Lung,Lung Squamous Cell Carcinoma,9,Yes,Female,Matched
+246,MO_1317,MO_1317,116,0.4099,58,Caucasian,Lymph Node,Breast Invasive Ductal Carcinoma,74,Yes,Female,Matched
+249,MO_1320,MO_1320,58,0.6261,44,South Asian,Skin Punch,Breast Invasive Ductal Carcinoma,12,Yes,Female,Matched
+252,MO_1324,MO_1324,85,0.484,57,Caucasian,Liver,Breast Invasive Ductal Carcinoma,108,Yes,Female,Matched
+255,MO_1329,MO_1329,17,0.0292,59,Caucasian,Shoulder Mass,Myxoid Chondrosarcoma,11,Yes,Female,Matched
+259,MO_1335,MO_1335,67,0.6778,46,Caucasian,Liver,Breast Invasive Ductal Carcinoma,58,Yes,Female,Matched
+278,MO_1363,MO_1363,2399,0.8296,55,Caucasian,Lymph Node,"Poorly Differentiated Carcinoma, NOS",7,Yes,Female,Matched
+279,MO_1364,MO_1364,81,0.6315,56,Caucasian,Liver,Breast Invasive Ductal Carcinoma,28,Yes,Female,Matched
+291,MO_1378,MO_1378,89,0.4767,52,Caucasian,Lymph Node,Serous Ovarian Cancer,23,Yes,Female,Matched
+295,MO_1382,MO_1382,29,0.0796,57,Caucasian,Lung,Synovial Sarcoma,26,Yes,Female,Matched
+296,MO_1383,MO_1383,39,0.1922,58,Caucasian,Liver,"Adenocarcinoma, NOS",1,No,Female,Matched
+297,MO_1384,MO_1384,60,0.2172,59,Caucasian,Bone,Breast Invasive Ductal Carcinoma,60,Yes,Female,Matched
+299,MO_1386,MO_1386,10,0.0021,49,Caucasian,Skin,Breast Invasive Ductal Carcinoma,16,Yes,Female,Matched
+302,MO_1390,MO_1390,24,0.0163,40,African American,Brain,Adenoid Cystic Carcinoma,28,Yes,Female,Matched
+305,MO_1394,MO_1394,26,0.0074,52,Caucasian,Retroperitoneum,High-Grade Sarcoma Retroperitoneum,53,Yes,Female,Matched
+306,MO_1395,MO_1395,131,0.3166,58,Caucasian,Liver,Esophageal Adenocarcinoma,1,No,Female,Matched
+309,MO_1399,MO_1399,165,0.5825,59,Caucasian,Bone,Breast Invasive Ductal Carcinoma,45,Yes,Female,Matched
+310,MO_1400,MO_1400,151,0.5847,52,Caucasian,Liver,Esophageal Squamous Cell Carcinoma,10,Yes,Female,Matched
+311,MO_1402,MO_1402,34,0.712,53,Caucasian,Liver,Intrahepatic Cholangiocarcinoma,17,Yes,Female,Matched
+312,MO_1403,MO_1403,21,0.1946,60,Caucasian,Abdom. Mass,Dedifferentiated Liposarcoma,77,Yes,Female,Matched
+319,MO_1415,MO_1415,31,0.05,46,African American,Skin Punch,Breast Invasive Ductal Carcinoma,19,Yes,Female,Matched
+321,MO_1418,MO_1418,60,0.1909,55,African American,Lymph Node,Breast Invasive Ductal Carcinoma,9,Yes,Female,Matched
+327,MO_1425,MO_1425,212,0.3859,47,Caucasian,Lymph Node,Breast Invasive Lobular Carcinoma,56,Yes,Female,Matched
+329,MO_1427,MO_1427,43,0.4188,55,Caucasian,Chest Wall,Breast Invasive Ductal Carcinoma,197,Yes,Female,Matched
+332,MO_1434,MO_1434,56,0.4818,56,Caucasian,Liver,Adrenocortical Carcinoma,42,Yes,Female,Matched
+333,MO_1435,MO_1435,128,0.6988,58,Caucasian,Liver,Breast Invasive Lobular Carcinoma,192,Yes,Female,Matched
+339,MO_1444,MO_1444,1489,0.2301,60,Hispanic,Psoas Muscle,Breast Invasive Ductal Carcinoma,84,Yes,Female,Matched
+344,MO_1452,MO_1452,73,0.4519,60,Caucasian,Ovary,Ovarian Adenocarcinoma Lymph Node,47,Yes,Female,Matched
+353,MO_1465,MO_1465,37,0.125,42,Caucasian,Brain,Glioblastoma Multiforme,5,Yes,Female,Matched
+358,MO_1474,MO_1474,38,0.3401,49,Caucasian,Lung,Breast Invasive Ductal Carcinoma,12,Yes,Female,Matched
+368,MO_1484,MO_1484,19,0.115,49,Caucasian,Lung,Myoepithelial Carcinoma,33,Yes,Female,Matched
+378,MO_1494,MO_1494,61,0.1912,52,South Asian,Liver,Pancreatic Adenocarcinoma,11,Yes,Female,Matched
+384,MO_1503,MO_1503,118,0.4549,43,Caucasian,Lymph Node,Breast Invasive Ductal Carcinoma,13,Yes,Female,Matched
+386,MO_1507,MO_1507,152,0.5456,58,Caucasian,Liver,"Neuroendocrine Tumor, NOS",6,Yes,Female,Matched
+392,MO_1515,MO_1515,177,0.3235,55,Caucasian,Liver,Breast Invasive Ductal Carcinoma,105,Yes,Female,Matched
+393,MO_1516,MO_1516,67,0.7601,58,Caucasian,Liver,Breast Invasive Ductal Carcinoma,153,Yes,Female,Matched
+399,MO_1524,MO_1524,172,0.3568,59,Caucasian,Lymph Node,Breast Invasive Lobular Carcinoma,29,Yes,Female,Matched
+401,MO_1527,MO_1527,220,0.4526,58,Caucasian,Hip Lesion,Breast Invasive Ductal Carcinoma,62,Yes,Female,Matched
+403,MO_1529,MO_1529,55,0.8495,48,Caucasian,Liver,Pancreatic Neuroendocrine Tumor,2,Yes,Female,Matched
+406,MO_1533,MO_1533,1066,0.4761,59,Caucasian,Subq Nodule,Breast Invasive Ductal Carcinoma,57,Yes,Female,Matched
+408,MO_1536,MO_1536,7,0.2242,55,Caucasian,Liver,Breast Invasive Ductal Carcinoma,11,Yes,Female,Matched
+409,MO_1537,MO_1537,28,0.4357,45,Caucasian,Lymph Node,Breast Invasive Ductal Carcinoma,27,Yes,Female,Matched
+410,MO_1540,MO_1540,118,0.5282,50,Caucasian,Bone,Breast Invasive Ductal Carcinoma,27,Yes,Female,Matched
+417,MO_1552,MO_1552,20,0.3807,41,Caucasian,Liver,Intrahepatic Cholangiocarcinoma,15,Yes,Female,Matched
+423,MO_1562,MO_1562,78,0.5436,60,Caucasian,Axillary Mass,Breast Invasive Ductal Carcinoma,21,Yes,Female,Matched
+426,TP_2002,TP_2002,166,0.8236,59,Caucasian,Peritoneal Fluid,"Adenocarcinoma, NOS",98,Yes,Female,Matched
+431,TP_2011,TP_2011,398,0.2835,56,Caucasian,Liver,Renal Cell Carcinoma,180,Yes,Female,Matched
+434,TP_2015,TP_2015,63,0.5265,53,Caucasian,Lymph Node,Breast Invasive Ductal Carcinoma,143,Yes,Female,Matched
+442,TP_2024,TP_2024,107,0.2632,56,Caucasian,Liver,Small Cell Lung Cancer,59,Yes,Female,Matched
+455,TP_2052,TP_2052,177,0.0,52,Caucasian,Adrenal,Poorly Differentiated Non-Small Cell Lung Cancer,16,Yes,Female,Matched
+457,TP_2055,TP_2055,9,0.0,41,East Asian,Brain,Atypical Meningioma,58,Yes,Female,Matched
+458,TP_2056,TP_2056,40,0.2228,46,Caucasian,Brain,Glioblastoma Multiforme,7,Yes,Female,Matched
+464,TP_2065,TP_2065,43,0.1305,52,Caucasian,Brain,Glioblastoma Multiforme,3,Yes,Female,Matched
+468,TP_2071,TP_2071,30,0.1714,52,East Asian,Pelvic Mass,Clear Cell Ovarian Cancer,12,Yes,Female,Matched
+470,TP_2073,TP_2073,34,0.2811,52,Caucasian,Lymph Node,Pleural Mesothelioma,17,Yes,Female,Matched
+472,TP_2075,TP_2075,35,0.1096,43,Caucasian,Lacrimal Gland,Solitary Fibrous Tumor,11,Yes,Female,Matched
+480,TP_2087,TP_2087,104,0.3773,59,Caucasian,Colon,Serous Ovarian Cancer,29,Yes,Female,Matched
+489,TP_2106,TP_2106,116,0.2404,59,Caucasian,Bone,Pancreatic Adenocarcinoma,53,Yes,Female,Matched
+490,TP_2109,TP_2109,42,0.1188,48,Caucasian,Lymph Node,Breast Invasive Lobular Carcinoma,1,No,Female,Matched
+491,TP_2118,TP_2118,160,0.5484,45,African American,Lymph Node,Breast Invasive Ductal Carcinoma,16,Yes,Female,Matched
+498,TP_2141,TP_2141,10,0.375,43,Caucasian,Liver,Breast Invasive Ductal Carcinoma,36,Yes,Female,Matched
